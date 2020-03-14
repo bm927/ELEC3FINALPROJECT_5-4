@@ -1,0 +1,14 @@
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\obj\Debug\HIT_OR_MISS.p1board.resources
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\obj\Debug\HIT_OR_MISS.Startup.resources
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\obj\Debug\HIT_OR_MISS.Resources.resources
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\obj\Debug\HIT OR MISS.vbproj.GenerateResource.cache
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\obj\Debug\HIT_OR_MISS.Splash.resources
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\obj\Debug\HIT_OR_MISS.p2board.resources
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\obj\Debug\HIT_OR_MISS.TurnChange.resources
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\bin\Debug\HIT OR MISS.exe.config
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\bin\Debug\HIT OR MISS.exe
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\bin\Debug\HIT OR MISS.pdb
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\bin\Debug\HIT OR MISS.xml
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\obj\Debug\HIT OR MISS.exe
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\obj\Debug\HIT OR MISS.xml
+C:\Users\bless\Desktop\HIT OR MISS\HIT OR MISS\obj\Debug\HIT OR MISS.pdb
